@@ -1,0 +1,4 @@
+*.ipynb_checkpoints
+*__pycache__
+*unsloth_compiled_cache
+train_mcqa/outputs
