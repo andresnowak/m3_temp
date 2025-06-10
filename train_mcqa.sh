@@ -1,3 +1,3 @@
 
 cd train_mcqa
-python train_mcqa.py
+WANDB_MODE=disabled python train_mcqa.py
